@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300..700&display=swap");
+.navbar {
+  height: 65px;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 1px solid rgb(230, 232, 234);
+  z-index: 4000;
+}
+
+.news-page {
+  padding-top: 70px;
+}
+.news-page .news-card {
+  max-width: 424px;
+  margin-bottom: 10px;
+}
+.news-page .news-card img {
+  height: 248px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}/*# sourceMappingURL=index.css.map */
